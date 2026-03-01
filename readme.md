@@ -1,6 +1,4 @@
-Got it! I’ve cleaned up your Markdown so that the directory tree and sections look neat and readable, with proper line breaks and spacing. Here’s the improved version:
-
-```markdown
+### Assignment for SRIP 2026 ####
 # Sleep Breathing Irregularity Detection
 
 This project focuses on detecting abnormal breathing patterns during sleep using physiological signals such as nasal airflow, thoracic movement, and SpO₂.
@@ -135,9 +133,4 @@ Outputs:
 * Model is implemented in PyTorch
 * Evaluation avoids data leakage by separating participants
 
-```
 
-✅ Now the directory tree is clean and the Markdown sections are properly spaced for readability.  
-
-If you want, I can also make the **directory tree visually “boxed” like `tree` command output** so it looks even more professional in GitHub README. Do you want me to do that?
-```
