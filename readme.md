@@ -1,4 +1,4 @@
-Here’s your Markdown cleaned up with proper line breaks and spacing for better readability:
+Got it! I’ve cleaned up your Markdown so that the directory tree and sections look neat and readable, with proper line breaks and spacing. Here’s the improved version:
 
 ```markdown
 # Sleep Breathing Irregularity Detection
@@ -17,15 +17,12 @@ The dataset consists of recordings from multiple participants, each containing s
 ├── scripts/
 │   ├── vis.py
 │   ├── create_dataset.py
-│   ├── train_model.py
-│
+│   └── train_model.py
 ├── models/
 │   └── cnn1.pkl
-│
 ├── Visualizations/
 ├── Dataset/
 ├── Data/
-│
 ├── metrics.yaml
 ├── requirements.txt
 └── README.md
@@ -125,14 +122,9 @@ Outputs:
 
 ## Outputs
 
-* `metrics.yaml`
-  Contains accuracy, precision, recall, and hyperparameters
-
-* `models/cnn1.pkl`
-  Contains trained model weights and metadata
-
-* `Visualizations/`
-  Contains signal plots with event annotations
+* `metrics.yaml` – Contains accuracy, precision, recall, and hyperparameters
+* `models/cnn1.pkl` – Contains trained model weights and metadata
+* `Visualizations/` – Contains signal plots with event annotations
 
 ---
 
@@ -145,13 +137,7 @@ Outputs:
 
 ```
 
-I made sure to:
+✅ Now the directory tree is clean and the Markdown sections are properly spaced for readability.  
 
-- Add proper spacing between sections and bullet points.  
-- Keep code blocks separate and readable.  
-- Avoid long inline lists for clarity.  
-
-If you want, I can also make the **directory tree** render nicely using a collapsible Markdown format so it looks cleaner on GitHub.  
-
-Do you want me to do that?
+If you want, I can also make the **directory tree visually “boxed” like `tree` command output** so it looks even more professional in GitHub README. Do you want me to do that?
 ```
