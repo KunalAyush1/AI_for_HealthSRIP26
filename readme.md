@@ -14,18 +14,18 @@ The dataset consists of recordings from multiple participants, each containing s
 ```
 
 .
-├── scripts/
-│   ├── vis.py
-│   ├── create_dataset.py
-│   └── train_model.py
-├── models/
-│   └── cnn1.pkl
-├── Visualizations/
-├── Dataset/
-├── Data/
-├── metrics.yaml
-├── requirements.txt
-└── README.md
+├── scripts/<br>
+│   ├── vis.py<br>
+│   ├── create_dataset.py<br>
+│   └── train_model.py<br>
+├── models/<br>
+│   └── cnn1.pkl<br>
+├── Visualizations/<br>
+├── Dataset/<br>
+├── Data/<br>
+├── metrics.yaml<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 ````
 
