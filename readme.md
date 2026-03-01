@@ -1,5 +1,4 @@
-
----
+Here’s your Markdown cleaned up with proper line breaks and spacing for better readability:
 
 ```markdown
 # Sleep Breathing Irregularity Detection
@@ -144,11 +143,15 @@ Outputs:
 * Model is implemented in PyTorch
 * Evaluation avoids data leakage by separating participants
 
----
-
 ```
 
----
+I made sure to:
 
+- Add proper spacing between sections and bullet points.  
+- Keep code blocks separate and readable.  
+- Avoid long inline lists for clarity.  
 
+If you want, I can also make the **directory tree** render nicely using a collapsible Markdown format so it looks cleaner on GitHub.  
+
+Do you want me to do that?
 ```
