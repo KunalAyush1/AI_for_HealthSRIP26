@@ -1,0 +1,27 @@
+#python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#virtual environments
+venv/
+.env/
+.venv/
+
+#os files
+.DS_Store
+Thumbs.db
+
+#Jupyter
+.ipynb_checkpoints/
+
+#outputs
+Dataset/
+Visualizations/
+
+#log file
+*.log
+
+#as data is large to be pushed to github repo(~264mb)
+/Data 
