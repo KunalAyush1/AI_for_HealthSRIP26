@@ -1,0 +1,29 @@
+hyperparameters:
+  epochs: 40
+  batch_size: 32
+  learning_rate: 0.001
+metrics:
+  AP01:
+    accuracy: 0.4445664105378705
+    precision: 0.9043604664927546
+    recall: 0.4445664105378705
+  AP02:
+    accuracy: 0.8264556246466931
+    precision: 0.863650430411766
+    recall: 0.8264556246466931
+  AP03:
+    accuracy: 0.37028301886792453
+    precision: 0.9806025932549046
+    recall: 0.37028301886792453
+  AP04:
+    accuracy: 0.8797927461139896
+    precision: 0.8566563856202772
+    recall: 0.8797927461139896
+  AP05:
+    accuracy: 0.6556962025316456
+    precision: 0.673929074139093
+    recall: 0.6556962025316456
+average:
+  accuracy: 0.6353588005396247
+  precision: 0.8558397899837591
+  recall: 0.6353588005396247
